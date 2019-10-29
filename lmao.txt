@@ -1,3 +1,7 @@
 öas.äals
+<<<<<<< HEAD
 tere
 kuidas läheb?
+=======
+Kristen Surva
+>>>>>>> 8420368f140b20074ecc7db096f1475cf41f6b1b
